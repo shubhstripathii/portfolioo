@@ -47,10 +47,10 @@ nav a:hover { color: var(--accent); }
 .hero-right { flex: 1 1 40%; display: flex; justify-content: center; }
 
 .profile-img {
-  width: 260px;
-  height: 340px;
+  width: 410px;
+  height: 290px;
   object-fit: cover;
-  border-radius: 20px;
+  border-radius: 40px;
   box-shadow: 0 0 25px rgba(0, 209, 255, 0.3);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
